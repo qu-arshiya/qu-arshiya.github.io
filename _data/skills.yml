@@ -1,0 +1,30 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+  - item: PostgreSQL
+
+frameworks:
+  - item: Django
+  - item: jQuery
+  - item: React
+  - item: Express
+  - item: Nginx
+  - item: Node
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Insomnia
+  - item: MongoDB
+  - item: Vim
+
+# design:
+#   - item: Sketch
+#   - item: InDesign
+#   - item: InVision
+#   - item: Prototyping
+#   - item: Wireframing
+#   - item: User Testing
